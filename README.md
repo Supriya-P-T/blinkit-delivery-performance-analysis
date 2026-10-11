@@ -95,3 +95,11 @@ The primary deliverable is a three-slide PDF covering the business objective, No
 
 Case study: NextLeap — Data, Metrics and Outcomes Mapping  
 Business context: Blinkit delivery operations
+
+## Certificate of Completion
+
+Successfully completed the NextLeap Data, Metrics and Outcomes Mapping case study focused on Blinkit's delivery performance.
+
+The project involved defining operational KPIs, structuring an issue tree, mapping metrics to business questions, and prioritising hypotheses to investigate delivery delays.
+
+**Certificate:** [View Certificate]("ML1_certificate.pdf")
