@@ -102,4 +102,4 @@ Successfully completed the NextLeap Data, Metrics and Outcomes Mapping case stud
 
 The project involved defining operational KPIs, structuring an issue tree, mapping metrics to business questions, and prioritising hypotheses to investigate delivery delays.
 
-**Certificate:** [View Certificate]("ML1_certificate.pdf")
+**Certificate:** [View Certificate](ML1_certificate.pdf)
